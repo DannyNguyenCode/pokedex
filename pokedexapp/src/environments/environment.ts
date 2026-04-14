@@ -1,5 +1,4 @@
-// src/environments/environment.prod.ts
 export const environment = {
-    production: true,
-    apiBaseUrl: 'https://pokedexapi-seven.vercel.app/'
-};
+    production: false,
+    baseURL: 'http://127.0.0.1:5000'
+}
